@@ -120,6 +120,8 @@ function renderDark() {
   })
 }
 
+
+filterPrice(products)
 renderDark()
 filterByRange()
 filter(products)
